@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apeksha</h1>
-<h3 align="center">Crafting pixels and turning caffeine into code (👉ﾟヮﾟ)👉</h3>
+<h3 align="center">Crafting pixels and turning caffeine into code 💻</h3>
 
 - 🔭 I’m currently working on **photography website 📸**
 
@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=auror-apeksha&show_icons=true&locale=en&layout=compact" alt="auror-apeksha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=auror-apeksha&show_icons=true&theme=synthwave&locale=en" alt="auror-apeksha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auror-apeksha&" alt="auror-apeksha" /></p>
