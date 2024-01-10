@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jcUKEx4XDzUNjf-tea6cNBGJx7uAgb2g/view?usp=sharing](https://drive.google.com/file/d/1jcUKEx4XDzUNjf-tea6cNBGJx7uAgb2g/view?usp=sharing)
 
-- ⚡ Fun fact **I've got 99 problems, and all of them are merge conflicts.**
+- ⚡ Fun fact **I've got 99 problems, and all of them are merge conflicts 🫠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
